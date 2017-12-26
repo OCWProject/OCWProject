@@ -13,4 +13,4 @@ def factR(n):
         return n
     else:
         return n * factR(n - 1)
-print(factR(15))
+print(factR(5))
